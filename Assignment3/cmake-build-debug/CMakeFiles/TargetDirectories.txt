@@ -1,0 +1,4 @@
+/Users/adilarshad/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/adilarshad/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/adilarshad/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/exam_2.dir
+/Users/adilarshad/CLionProjects/Assignment3/cmake-build-debug/CMakeFiles/Assignment3.dir
