@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment4.dir/node1.cpp.o CMakeFiles/Assignment4.dir/sequence3.cpp.o CMakeFiles/Assignment4.dir/sequence3_exam.cpp.o  -o Assignment4 

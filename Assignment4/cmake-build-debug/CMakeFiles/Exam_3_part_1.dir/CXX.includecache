@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adilarshad/CLionProjects/Assignment4/node1.cpp
+node1.h
+/Users/adilarshad/CLionProjects/Assignment4/node1.h
+cassert
+-
+cstdlib
+-
+
+/Users/adilarshad/CLionProjects/Assignment4/node1.h
+cstdlib
+-
+
+/Users/adilarshad/CLionProjects/Assignment4/sequence3.cpp
+iostream
+-
+cassert
+-
+sequence3.h
+/Users/adilarshad/CLionProjects/Assignment4/sequence3.h
+node1.h
+/Users/adilarshad/CLionProjects/Assignment4/node1.h
+
+/Users/adilarshad/CLionProjects/Assignment4/sequence3.h
+cstdlib
+-
+node1.h
+/Users/adilarshad/CLionProjects/Assignment4/node1.h
+
+/Users/adilarshad/CLionProjects/Assignment4/sequence3_test.cpp
+cctype
+-
+iostream
+-
+cstdlib
+-
+sequence3.h
+/Users/adilarshad/CLionProjects/Assignment4/sequence3.h
+
