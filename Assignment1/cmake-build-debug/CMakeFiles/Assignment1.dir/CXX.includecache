@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/adilarshad/CLionProjects/Assignment1/barrel.cpp
+cassert
+-
+barrel.h
+/Users/adilarshad/CLionProjects/Assignment1/barrel.h
+iostream
+-
+
+/Users/adilarshad/CLionProjects/Assignment1/barrel.h
+
+/Users/adilarshad/CLionProjects/Assignment1/main.cpp
+iostream
+-
+test_barrel.h
+/Users/adilarshad/CLionProjects/Assignment1/test_barrel.h
+barrel.h
+/Users/adilarshad/CLionProjects/Assignment1/barrel.h
+
+/Users/adilarshad/CLionProjects/Assignment1/test_barrel.h
+iostream
+-
+barrel.h
+/Users/adilarshad/CLionProjects/Assignment1/barrel.h
+
