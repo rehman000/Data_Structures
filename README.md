@@ -35,7 +35,7 @@
 -   Assignment4.pdf
 -   CMakeLists.txt      (Make File)
 -   main.cpp
--   node1.cpp           (helper file with Node function Implementation's)
+-   node1.cpp           (Node Toolkit)
 -   node1.h
 -   sequence3.cpp       (Implementation File)
 -   sequence3.h
