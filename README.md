@@ -1,4 +1,4 @@
-# Data_Structures
+# Data_Structures (CSC 212: CCNY Fall 2018)
 
 -Assignment 1: { Static Arrays }
 
