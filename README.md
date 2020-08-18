@@ -1,6 +1,6 @@
 # Data_Structures (CSC 212: CCNY Fall 2018)
 
--Assignment 1: { Static Arrays }
+## Assignment 1: { Static Arrays }
 
 -   Assignment1.pdf
 -   barrel.cpp        (Implementation File)
@@ -9,7 +9,7 @@
 -   main.cpp
 -   test_barrel.h
 
--Assignment 2: { Dynamic Arrays 1 }
+## Assignment 2: { Dynamic Arrays 1 }
 
 -   Assignment2.pdf
 -   CMakeLists.txt      (Make File)
@@ -20,7 +20,7 @@
 -   sequence_exam.cpp   (Test File)
 -   sequence_test.cpp   (Test File)
 
--Assignment 3: { Dynamic Arrays 2 }
+## Assignment 3: { Dynamic Arrays 2 }
 
 -   Assignment3.pdf
 -   CMakeLists.txt      (Make File)
@@ -30,7 +30,7 @@
 -   sequence2_exam.cpp  (Test File)
 -   sequence2_test.cpp  (Test File)
 
--Assignment 4: { Linked-Lists }
+## Assignment 4: { Linked-Lists }
 
 -   Assignment4.pdf
 -   CMakeLists.txt      (Make File)
@@ -42,7 +42,7 @@
 -   sequence3_exam.cpp  (Test File)
 -   sequence3_test.cpp  (Test File)
 
--Assignment 5: { Recursion }
+## Assignment 5: { Recursion }
 
 -   Assignment5.pdf
 -   CMakeLists.txt      (Make File)
@@ -50,7 +50,7 @@
 -   maze.h
 -   recursion.cpp       (Implementation File)
 
--Assignment 6: { Binary Trees }
+## Assignment 6: { Binary Trees }
 
 -   Assignment6.pdf     
 -   bagexam.cpp         (Test File)
