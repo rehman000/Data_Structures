@@ -1,5 +1,7 @@
 # Data_Structures (CSC 212: CCNY Fall 2018)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Assignment 1: { Static Arrays }
 
 -   Assignment1.pdf
